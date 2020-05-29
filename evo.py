@@ -1,5 +1,5 @@
-# DIBUAT OLEH ANBIA NUANSYAH
-# Created by SANSBAE (https://github.com/SansBae)
+# DIBUAT OLEH SONY BM
+# Created by SONYBM (https://github.com/CrackBm)
 # Instagram : @sansbae25
 
 import marshal,zlib,base64
